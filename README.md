@@ -62,3 +62,10 @@ sample_02.txt Amplify結果 = No 正解 = No
 上向きのスピンと下向きのスピンで打ち消しあって0になればyes、ならなければnoです。
 
 https://quantum.fixstars.com/techresouces/research/ising-model-formulation/number-partitioning/
+
+
+## 使用した量子アニーリングマシン
+
+Fixstars Amplify AE
+
+https://amplify.fixstars.com/
