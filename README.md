@@ -60,3 +60,5 @@ sample_02.txt Amplify結果 = No 正解 = No
 イジングモデルのハミルトニアンとしては、総和の二乗です。
 
 上向きのスピンと下向きのスピンで打ち消しあって0になればyes、ならなければnoです。
+
+https://quantum.fixstars.com/techresouces/research/ising-model-formulation/number-partitioning/
