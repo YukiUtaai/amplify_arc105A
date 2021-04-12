@@ -69,3 +69,8 @@ https://quantum.fixstars.com/techresouces/research/ising-model-formulation/numbe
 Fixstars Amplify AE
 
 https://amplify.fixstars.com/
+
+
+## 使用した問題
+
+https://atcoder.jp/contests/arc105/tasks/arc105_a
