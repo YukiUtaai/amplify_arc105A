@@ -64,7 +64,7 @@ sample_02.txt Amplify結果 = No 正解 = No
 https://quantum.fixstars.com/techresouces/research/ising-model-formulation/number-partitioning/
 
 
-## 使用した量子アニーリングマシン
+## 使用したアニーリングマシン
 
 Fixstars Amplify AE
 
