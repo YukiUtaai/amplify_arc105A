@@ -55,7 +55,7 @@ sample_01.txt Amplify結果 = Yes 正解 = Yes
 sample_02.txt Amplify結果 = No 正解 = No
 ```
 
-## 原理
+## 考え方
 
 イジングモデルのハミルトニアンとしては、総和の二乗です。
 
